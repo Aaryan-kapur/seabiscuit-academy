@@ -58,6 +58,10 @@ body {
   /* margin-bottom: 300px; */
   /* margin:0 auto; */
 }
+.rowAboutUs{
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
 .text {
   padding-top: 60px;
   margin-top: 30px;
